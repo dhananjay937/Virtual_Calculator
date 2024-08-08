@@ -1,0 +1,6 @@
+cvzone==1.5.4
+opencv-python-headless==4.7.0.72
+numpy==1.24.2
+Pillow==9.5.0
+streamlit==1.22.0
+google-generativeai==0.1.5  # Replace with the actual version if needed
